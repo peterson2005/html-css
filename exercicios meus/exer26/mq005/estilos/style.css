@@ -50,15 +50,16 @@ menu > ul > li > a:hover {
 
 
 span.material-symbols-outlined {
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(104, 103, 103);
     color: white;
     display: block;
     text-align: center;
     padding: 10px;
+    cursor: pointer;
 }
 
 span.material-symbols-outlined:hover {
-    background-color: white;
+    background-color: rgba(134, 134, 134, 0.356);
     color: black;
 }
 
