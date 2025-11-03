@@ -23,7 +23,7 @@ header > h1 {
     text-align: center;
 }
 menu {
-    display: block;
+    display: none;
 }
 
 
@@ -48,6 +48,19 @@ menu > ul > li > a:hover {
 
 }
 
+
+span.material-symbols-outlined {
+    background-color: rgb(48, 48, 48);
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+span.material-symbols-outlined:hover {
+    background-color: white;
+    color: black;
+}
 
 main {
     width: 90vw;
